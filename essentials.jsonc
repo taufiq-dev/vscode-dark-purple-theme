@@ -1,0 +1,48 @@
+{
+  "workbench.colorCustomizations": {
+    /* Editor */
+    "editor.background": "#1b0a21",
+    "editorGroup.border": "#2f0e3b",
+    "editorGroupHeader.tabsBorder": "#250c2e",
+    "editorGroupHeader.tabsBackground": "#231829",
+    /* Scrollbar */
+    "scrollbarSlider.background": "#30123bCC",
+    "scrollbarSlider.hoverBackground": "#3f1a5a",
+    "scrollbarSlider.activeBackground": "#4f247a",
+    /* Tab */
+    "tab.activeBackground": "#1b0a21",
+    "tab.activeBorder": "#1b0a21",
+    "tab.activeBorderTop": "#9b1aca",
+    "tab.border": "#2f0e3b",
+    "tab.inactiveBackground": "#24112c",
+    "tab.unfocusedActiveBorder": "#220d2a",
+    "tab.unfocusedActiveBorderTop": "#560f6f",
+    "tab.unfocusedHoverBackground": "#411951",
+    "tab.hoverBackground": "#641f7d",
+    /* Sidebar */
+    "sideBar.background": "#1b0a21",
+    "sideBar.border": "#2f0e3b",
+    "sideBarSectionHeader.border": "#2f0e3b",
+    "sideBarSectionHeader.background": "#1b0a21",
+    /* Activity Bar */
+    "activityBar.background": "#1b0a21",
+    "activityBar.border": "#2f0e3b",
+    /* Title Bar */
+    "titleBar.activeBackground": "#1b0a21",
+    "titleBar.inactiveBackground": "#25122d",
+    "titleBar.border": "#2f0e3b",
+    /* Terminal */
+    "terminal.background": "#1b0a21",
+    "terminal.border": "#2f0e3b",
+    "terminal.tab.activeBorder": "#9b1aca",
+    /* Panel */
+    "panel.background": "#1b0a21",
+    "panel.border": "#2f0e3b",
+    "commandCenter.background": "#1b0a21",
+    "quickInput.background": "#1b0a21",
+    "input.background": "#1b0a21",
+    /* Editor Widget */
+    "editorWidget.background": "#1b0a21",
+    "editorWidget.border": "#2f0e3b"
+  }
+}
